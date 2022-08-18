@@ -2,7 +2,7 @@
 layout: post
 title:  EF core instance auto disposed issue
 date:   2022-06-23 11:07:01 +0800
-#image:  10.png
+image:  17.jpg
 tags:   Dev EF-Core Asp.Net C# Entity-Framework-core
 ---
 
