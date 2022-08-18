@@ -10,13 +10,13 @@ jekyll 问题汇总
 --------------------
 
 - [jekyll 问题汇总](#jekyll-问题汇总)
-    - [#1 Issue: Jekyll 运行的时候提示错误 cannot load such file -- webrick (LoadError)](#1-issue-jekyll-运行的时候提示错误-cannot-load-such-file----webrick-loaderror)
+    - [#01 Issue: Jekyll 运行的时候提示错误 cannot load such file -- webrick (LoadError)](#01-issue-jekyll-运行的时候提示错误-cannot-load-such-file----webrick-loaderror)
     - [#02 How to: Show double quotes on page title - 文章标题显示双引号](#02-how-to-show-double-quotes-on-page-title---文章标题显示双引号)
    
 
 
 ---
-#### #1 Issue: Jekyll 运行的时候提示错误 cannot load such file -- webrick (LoadError)
+#### #01 Issue: Jekyll 运行的时候提示错误 cannot load such file -- webrick (LoadError)
 **Symptom:**  
 错误详情没截 :(
 
