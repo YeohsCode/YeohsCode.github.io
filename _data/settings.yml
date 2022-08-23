@@ -11,7 +11,11 @@ author:
   name: Andrew Yeoh
   image: 01.jpg
   say-hello: Hello, I’m <strong>Andrew Yeoh</strong>
-  bio: Murmurs about <strong>dev</strong>, <strong>photos</strong>, <strong>thinking</strong>. Loves <a href="#">origami</a> & riding his bicycle.
+  bio: |
+    Murmurs about <strong>dev</strong>, <strong>photos</strong>, <strong>thinking</strong>. Loves <a href="#">origami</a> & riding his bicycle.
+    <br />
+    用于存放关于开发、拍照、折纸、还有骑行的碎碎念。
+
 
 
 #-------------------------------

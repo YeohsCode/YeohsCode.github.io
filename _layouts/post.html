@@ -8,7 +8,7 @@ layout: default
         <span class="post__date">
           <time datetime="{{ page.date | date_to_xmlschema }}">{{page.date | date: '%b %d, %Y'}}</time>
         </span>
-
+        
         <h1 class="post-title">{{ page.title | escape }}</h1>
 
         <div class="post__info">
@@ -20,9 +20,15 @@ layout: default
           {% if page.tags.size >= 1 %}
           <div class="post__tags">
             {% for tag in page.tags %}
-              <a href="{{ site.baseurl }}/tag/{{ tag | downcase | replace: " ", "-" }}" class="post__tags-tag">{{ tag }}</a>
+              <a href="{{ site.baseurl }}/tag/{{ tag | downcase | replace: " ", "-" }}" class="post__tags-tag">{{ tag }}&nbsp;</a>
             {% endfor %}
           </div>
+          {% endif %}
+          
+          {% if page.last-updated-date != null %}
+          <span class="post_date_last_modified">
+            &nbsp;- last updated at: <time datetime="{{ page.last-updated-date | date_to_xmlschema }}">{{page.last-updated-date | date: '%b %d, %Y'}}</time>
+          </span> 
           {% endif %}
         </div>
       </div>

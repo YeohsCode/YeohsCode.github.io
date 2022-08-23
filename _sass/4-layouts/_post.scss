@@ -13,6 +13,12 @@
   .post__date {
     font-weight: 700;
   }
+  
+  .post_date_last_modified {
+    font-weight: 500;
+    color: $gray;
+    border-bottom: 1px solid transparent;
+  }
 
   @media only screen and (max-width: $mobile) {
     padding: 40px 0;
@@ -57,6 +63,9 @@
        height: 5px;
        border-radius: 50%;
        background: $dark;
+     }
+     &:hover {
+       border-bottom: 1px solid #f49d10;
      }
    } 
   }
