@@ -5,22 +5,31 @@ permalink: /about/
 image: 01.jpg
 ---
 
-Hi, my name is Alex Rodriguez. I like being at the center of events, being free and enjoying every moment. Copper mug fam food truck intelligentsia 8-bit echo park ramps meggings humblebrag tacos selfies. Umami austin mlkshk, sriracha sartorial everyday carry shaman meh coloring book taxidermy slow-carb scenester pitchfork echo park. Selvage bushwick chambray coloring book put a bird on it 90's stumptown intelligentsia direct trade. Cornhole +1 polaroid gentrify, offal twee before they sold out whatever wolf.
+Hi, my name is Andrew Yeoh (also call me "Andrew Yang" in Mandarin).   
+
+I am a Microsoft certified Azure Solution Architect Expert and works as full stack dev on software design & development.
+
+Loves origami, cycling and take photos.
+
 
 ***
 
-#### Austin scenester...
-<small>2008 - 2018</small>
+#### PricewaterhouseCoopers (PwC) Shanghai Acceleration Center (AC)
+<small>2016.11 - 2022.05</small>
 
-Offal post-ironic before they sold out mixtape you probably haven't heard of them. Pinterest roof party umami everyday carry street art. Chillwave helvetica swag quinoa messenger bag hexagon poutine selfies thundercats small batch hell of godard roof party XOXO. Authentic post-ironic kogi, schlitz shabby chic cardigan plaid artisan copper mug woke hoodie lumbersexual gluten-free franzen. Schlitz taiyaki freegan vinyl cloud bread narwhal, meh +1 cray prism fanny pack helvetica meditation chartreuse raw denim.
+Andrew was a technical lead in PwC AC, he works closely with the PwC US Tax team on financial marketing/tax reporting systems. He managed the projects on Azure DevOps/Jira, confirmed the deliveries of each sprint with customer and separated tasks to team members, he also worked on the requirement analysis, system design and full stack development.
 
-#### Vinyl hexagon before...
-<small>2001 - 2008</small>
+#### Microsoft (China) Co.,Ltd.
+<small>2015.02 - 2016.11</small>
 
-Chillwave helvetica swag quinoa messenger bag hexagon poutine selfies thundercats small batch hell of godard roof party XOXO. Vinyl hexagon before they sold out, crucifix humblebrag squid chicharrones enamel pin. Iceland humblebrag farm-to-table, lyft pug tilde irony.
-Hot chicken shoreditch tousled listicle, actually meggings vape. Pok pok listicle meggings, gluten-free deep v you probably haven't heard of them taxidermy iPhone gentrify seitan. Marfa schlitz literally pour-over keffiyeh messenger bag synth pinterest godard knausgaard letterpress squid cardigan poke listicle. 
+As a member in Microsoft SharePoint Support Team, resolve SharePoint issues from customers of APEC & GCR (Australia, New Zealand & APAC) on SharePoint installing, using and maintenance.  Build SharePoint environment at local for issue reproducing if necessary and cooperate with other teams like: Office, AD, SQL team to solve customers' issues.
 
-#### La croix you probably...
-<small>1995 - 2000</small>
+#### Cognizant Technology Solutions (Shanghai) Co Ltd
+<small>2012.09 - 2015.02</small>
 
-Shoreditch activated charcoal iceland hexagon. Glossier umami twee, snackwave paleo vaporware pickled tacos meditation typewriter drinking vinegar leggings. Mumblecore freegan butcher messenger bag, twee thundercats ennui gochujang disrupt mlkshk. Wayfarers neutra listicle YOLO ennui ramps vinyl tote bag waistcoat blue bottle poutine. Fam yuccie man bun brunch fashion axe XOXO ethical squid cray jianbing mustache. Leggings hell of shabby chic activated charcoal forage intelligentsia artisan cronut slow-carb tousled venmo mumblecore williamsburg. Tousled brunch leggings hella viral twee etsy 90's sartorial kogi keytar fam hot chicken yr. Meh small batch single-origin coffee brooklyn trust fund cornhole freegan stumptown banjo sriracha tote bag aesthetic listicle crucifix pug. Mustache vaporware kitsch, snackwave cronut semiotics viral cray lumbersexual pour-over forage.
+As a SharePoint developer, Andrew worked for the Merck, Abbott related business system development and maintenance work, involved SharePoint 2007，SharePoint 2010, SharePoint 2013, Office 365, Azure, Nintex workflow, data migration, website performance optimization.
+
+#### Egensource Technologies Co., Ltd.
+<small>2009.11 - 2012.08</small>
+
+Andrew was responsible for the company's SharePoint products (Tsing Cloud document management system) and module components development and maintenance.Technical pre-research for the products and expand the function module.
